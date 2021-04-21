@@ -3,6 +3,7 @@
 Pod::Spec.new do |s|
     s.name         = "BLUtil"
     s.version      = "1.0.0"
+    s.swift_version='4.0'
     s.ios.deployment_target = '10.0'
     s.summary      = "Util Framework"
     s.homepage     = "https://github.com/ddkjhabiby/BLUtil.git"
